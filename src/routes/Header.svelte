@@ -6,7 +6,7 @@
 
 <header>
 	<div class="corner">
-		<a href="https://github.com/inspiredlabs/lowenergy/blob/master/README.md">
+		<a href="https://github.com/inspiredlabs/custodians/blob/master/README.md">
 			<img src={logo} alt="SvelteKit" />
 		</a>
 	</div>
@@ -32,7 +32,7 @@
 	</nav> -->
 
 	<div class="corner">
-		<a href="https://github.com/inspiredlabs/lowenergy/blob/master/README.md">
+		<a href="https://github.com/inspiredlabs/custodians/blob/master/README.md">
 			<img src={github} alt="GitHub" />
 		</a>
 	</div>
