@@ -1,14 +1,15 @@
 <script>
+	import Gutter from './Gutter.svelte';
 	import { page } from '$app/stores';
-	import logo from '$lib/images/instantwebapp-logo.svg';
+	import logo from '$lib/images/custodians-icon.svg';
 	import github from '$lib/images/github.svg';
 </script>
 
 <header>
 	<div class="corner">
-		<a href="https://github.com/inspiredlabs/custodians/blob/master/README.md">
-			<img src={logo} alt="SvelteKit" />
-		</a>
+		<!-- <a href="https://github.com/inspiredlabs/custodians/blob/master/README.md">
+			<img src={logo} alt="The Custodians || Ethical Think Tank" />
+		</a> -->
 	</div>
 
 	<!-- <nav>
