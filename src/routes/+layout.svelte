@@ -1,4 +1,7 @@
 <script type="ts">
+	// learn: stackoverflow.com/questions/64245188/how-to-differentiate-between-svelte-dev-mode-and-build-mode#answer-68074574
+	import { dev, browser } from '$app/environment';
+
 	import Gutter from './Gutter.svelte';
 	import Header from './Header.svelte';
 	// import './styles.css';
