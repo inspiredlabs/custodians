@@ -166,7 +166,7 @@ Here is a sketch of the site content:
 - Social media
 - Contact:
   - email BioDesign Foundation
-  - We will need a privacy policy if people can `Subscribe` to our newsletter
+  - We will need a [privacy policy](https://www.privacypolicygenerator.info) if people can `Subscribe` to our newsletter
 - Media (streaming video &amp; audio services)
 
 ### Categories
@@ -179,7 +179,7 @@ Streaming media requires considerable resources, so it can be valuable to use e
 
 ### Functionality
 
-While not strictly "Content", when people `Subscribe`, this means we are handling data (which have both privacy &amp; test implications).
+While not strictly "Content", when people `Subscribe`, this means we are handling data (in a GDPR compliant way).
 
 It's also important to consider what other functionality we can accomadate.
 
