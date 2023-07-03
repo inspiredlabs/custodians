@@ -246,7 +246,7 @@ Depending on the requirements of the project:
 Transalting ideas into a working application can be fun! However, it's also valuable to concentrate on how content should be used.
 
 - Content has a strategic integrity of it's own (for example it can be _reusable_, like BioDesign Foundation's content).
-- Assets, like as photos, illustrations &amp; written material can be interoperable across-media (EG: it's possible to produce PDFs, apps &amp; website that share consistent data).
+- Assets can be consistent. Photos, illustrations &amp; written material can be shared from the same system &amp; across-media. This means, it's possible to make PDFs, apps &amp; website data interoperable.
 - Multilingual content can often be rewritten for local audiences using _transcreation_. This process helps ideas resonate better &amp; helps audiences take more specific actions.
 
 #### Graphic Design &amp; Animation
