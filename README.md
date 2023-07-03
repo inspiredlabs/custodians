@@ -152,6 +152,7 @@ Here is a sketch of the site content:
 - Projects:
   - The App
   - Partnership projects&hellip;
+  - Evergreen content: Newsletter/Blog
 - Partnerships:
   - Municipalities
   - Maritime Military
@@ -171,7 +172,7 @@ Here is a sketch of the site content:
 
 ### Categories
 
-Blog categories may include: `food`, `plastics`, `project work`, including: `river & ocean cleaning`, `technology`, `partner stories`.
+Newsletter or blog categories may include: `food`, `plastics`, `project work`, including: `river & ocean cleaning`, `technology`, `partner stories`.
 
 ### Media
 
