@@ -57,3 +57,12 @@
 		border-width: 0.125rem
 	}
 </style>
+
+<svelte:head>
+	{#if !dev }
+		<script
+		defer
+		src="https://unpkg.com/@tinybirdco/flock.js"
+		data-host="https://api.tinybird.co" data-token="p.eyJ1IjogImE0MTA3ZGE5LWNjZDItNDUxZi1hOWRjLTk5YzA3OGM3NmIwNSIsICJpZCI6ICJhYjU5OTgyOS01ODFlLTRlZTctYTMwNi00Nzg3OTNmZjk3OTIifQ.j1_UjsZl1wu5Gcxb9l9bPeyfFRAC1eQfpLkv_mLV_fs"></script>
+	{/if}
+</svelte:head>

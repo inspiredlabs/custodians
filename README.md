@@ -7,7 +7,6 @@
 
 > **BioDesign Foundation**, Non-profit organisation, Earth Solution Project, _Challenges-Solutions-Actions_, Created to give life to `#LuigiColani` 's vision
 
-
 * * *
 
 ## What was discussed
@@ -234,9 +233,20 @@ Technology questions might include:
 Depending on the requirements of the project:
 
 - Hygraph CMS
-- Notion CMS, OpenAI &amp; Supabase
+- OpenAI `pgvector` Supabase
 - digital assistant/chatbot
+
+Tinybird analytics: https://www.youtube.com/watch?v=pFb91G14Clk
+Notion API:
+  - keys: https://www.youtube.com/watch?v=IggOH_2q3y8&t=0s
+  - export: https://www.youtube.com/watch?v=9JE1LYJFNMY&t=0s
+  - transform w. Component Props: https://www.youtube.com/watch?v=97ARQTHyf1c&t=0s
+  - integration principles : https://www.youtube.com/watch?v=MsMvZceWLUw&pp=ygUXbm90aW9uIHZlY3RvciBkYXRhYmFzZSA%3D
+  - w. Sveltekit: https://github.com/subhendupsingh/sveltekit-notion-blog
+
 -->
+
+
 
 ## The Process
 
