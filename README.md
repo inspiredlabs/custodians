@@ -51,7 +51,7 @@ On `Thursday 29 July` we covered the following – I expanded these ideas to hel
 
 | Title | Overview (`30 June 2023`) | Address |
 |-|-|-|
-| BioDesign Foundation | Reusable content | 1. https://biodesignfoundation.org/the-custodians/ <br> 2. Become a Custodian! https://biodesignfoundation.org/en/custodians-3/ <br> 3. Flyer: https://biodesignfoundation.org/wp-content/uploads/2023/06/Flyer-The-Custodians-Plastic-Race-EN.pdf <br> 4. Brochure: https://biodesignfoundation.org/wp-content/uploads/2023/06/Web-Brochure-BioDesign-Foundation-EN.pdf |
+| BioDesign Foundation | Reusable content (Italiano &amp; English) | 1. https://biodesignfoundation.org/the-custodians/ <br> 2. Become a Custodian! https://biodesignfoundation.org/en/custodians-3/ <br> 3. Flyer: https://biodesignfoundation.org/wp-content/uploads/2023/06/Flyer-The-Custodians-Plastic-Race-EN.pdf <br> 4. Brochure: https://biodesignfoundation.org/wp-content/uploads/2023/06/Web-Brochure-BioDesign-Foundation-EN.pdf |
 | Instagram | 178 followers since `Sept. 2021` | https://www.instagram.com/biodesign.foundation/ |
 | Facebook | 23 likes & 36 followers since `Sept. 2021` | https://www.facebook.com/BioDesign-Foundation-109688911444258 |
 | YouTube | 27 followers since `8 Sept. 2022` | https://m.youtube.com/@biodesignfoundation2156/videos |
