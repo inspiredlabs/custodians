@@ -27,6 +27,7 @@ On `Thursday 29 July` we covered the following – I expanded these ideas to hel
   - [Categories](#categories)
   - [Media](#media)
   - [Functionality](#functionality)
+  - [Call To Action](#call-to-action)
 6. [Schedule](#schedule)
   - [Social Media](#social-media)
   - [Current Priorities](#current-priorities)
@@ -179,9 +180,27 @@ Streaming media requires considerable resources, so it can be valuable to use e
 
 ### Functionality
 
-While not strictly "Content", when people `Subscribe`, this means we are handling data (in a GDPR compliant way).
+While not strictly _Content_, when people `Subscribe` for example, we must handle data in a `GDPR` compliant way &amp; test across devices.
 
-It's also important to consider what other functionality we can accomadate.
+It's also important to consider what functionality we can accomadate users and editors, see: [Technology Questions](#technology-questions).
+
+### Call To Action
+
+Call To Action or `CTA` are usually prompted by _Content_ in two categories: [Data Gathering](#data-gathering) using input forms &amp; [External Actions](#external-actions).
+
+#### Data Gathering:
+
+- completing a volunteer application form, or gathering feedback
+- entering personal details to `Subscribe`
+- submit a guest post for the blog
+- registering for an event
+
+#### External Actions:
+
+<!-- - registering for a Discord server-->
+- downloading an app &amp; setting up an account
+- contacting their city council about cleaning up
+- completing other advocacy actions that require background info
 
 ## Schedule
 
@@ -221,15 +240,24 @@ Currently the application includes:
 
 Other technologies will be decided on a case-by-case basis, usually during the [Definition Phase](#the-double-diamond-process).
 
-Technology questions might include:
+### Technology Questions
 
-- which devices are we visiting the site?
-- can we automate parts of our workflow with AI?
+Technology should improve engagement. The best way to do this is to equip, encourage &amp; entertain visitors.
+
+We can delight visitors by understanding their needs:
+
+- which devices do people visit the site with?
+- what [Functionality](#functionality) can we accommodate for editors?
+- can we automate our workflow, such as SEO with AI?
 - do we need to integrate with Youtube or other services?
 - if we use Github, do we even need a CMS – if so, which one?
-- what [Functionality](#functionality) do users need – eg: `search` from the very beginning, etc.?
+- what [Functionality](#functionality) do users need, eg: on-site search, or  geographically relevant search, blog comments or an `FAQ`?
+
 
 <!--
+
+How do we [personalise](https://webflow.com/blog/ncc-2021-uncommon-microsites) &amp; delight visitors?
+
 Depending on the requirements of the project:
 
 - Hygraph CMS
